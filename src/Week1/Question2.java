@@ -1,3 +1,5 @@
+package Week1;
+
 public class Question2 {
     public static String printNameDetails(String firstName, String lastName) {
         String fullName = firstName + " " + lastName;
