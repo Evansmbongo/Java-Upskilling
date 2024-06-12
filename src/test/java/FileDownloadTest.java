@@ -10,4 +10,5 @@ public class FileDownloadTest extends BaseTest{
         fileDownload.clickDownloadBtn();
         Assert.assertTrue(fileDownload.verifyDownloadedFile(), "File does not exist");
     }
+
 }
